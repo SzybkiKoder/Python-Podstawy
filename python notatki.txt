@@ -1,0 +1,17 @@
+isinstance - porownywanie danych ( sprawdzanie czy sa prawdziwe czy fa³szywe )
+len(wartosc) - sprawdzanie ilosc znakow
+wartosc.islower - jezeli string sie rozpoczyna od litery malej
+wartosc.isalpha - czy to sa wylacznie litery
+wartosc.isalnum - czy sa litety i cyfry bez znakow specjalnych
+wartosc.find - czy dana wartosc znajduje sie w zmiennej lub "wartosc" in/not in zmienna
+input - wprowadzanie wartosci
+wartosc.append - dolozenie wartosci do zbioru 
+wartosc.reverse - odwraca wartosci w zbiorze
+wartosc.sort - sortowanie od najnizejszej do najwyzszej
+tuple() - tworzenie listy
+max() - maksymalna wartosc w liscie
+min() - MINIMALNA WARTOSC
+sum() - sumowanie wszystkich wartosci z listy
+def - tworzenie funkcji
+sep="ABC" - dodawanie sepracji miedzy wyrazami w princie
+random.randint - losowanie wartosci INT losowo aby dzialalo biblioteka #import random
